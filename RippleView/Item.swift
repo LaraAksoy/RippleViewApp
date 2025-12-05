@@ -1,8 +1,9 @@
+
 //
 //  Item.swift
-//  RippleView
+//  Landmark Story
 //
-//  Created by Lara Aksoy on 4.12.2025.
+//  Created by Lara Aksoy on 5.12.2025.
 //
 
 import Foundation
